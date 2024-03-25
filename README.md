@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jay, Owner of Bald and Beard. I am an aspiring programmer that is deeply inept at writing introductions. 
+I'm Jay, A Full Stack Developer and Owner of Bald and Beard. My focus are web and mobile applications to support the lives of individuals that are overlooked.
 
 <!--
 **BaldAndBeard/BaldAndBeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
